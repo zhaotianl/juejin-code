@@ -15,7 +15,7 @@ import java.lang.annotation.Target;
  * RetentionPolicy.CLASS 注解被保留在class中，但是在jvm加载的时候被抛弃，这个是默认的声明周期
  * RetentionPolicy.RUNTIME 注解在jvm加载的时候仍被保留
  * Target(){ElementType.METHOD} 定义了注解声明在哪些元素之前
- *
+ *1111111111
  * @author jiangpeng
  */
 @Retention(RetentionPolicy.RUNTIME)
