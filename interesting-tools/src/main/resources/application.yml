@@ -1,0 +1,15 @@
+
+spring:
+  application:
+    name: softactivity
+  http:
+    encoding.charset: UTF-8
+    encoding.force: true
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/test?useUnicode=true&serverTimezone=UTC
+    username: root
+    password: 123456
+
+
