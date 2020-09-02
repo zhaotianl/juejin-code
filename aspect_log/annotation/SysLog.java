@@ -16,6 +16,8 @@ import java.lang.annotation.Target;
  * RetentionPolicy.RUNTIME 注解在jvm加载的时候仍被保留
  * Target(){ElementType.METHOD} 定义了注解声明在哪些元素之前
  *1111111111
+ *222222
+ * 333333
  * @author jiangpeng
  */
 @Retention(RetentionPolicy.RUNTIME)
